@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+
+.titulo-destaque_principal{
+    font-size: 2.25rem;
+    font-family: 'Krona One', sans-serif;
+    color: white;
+}
+
+.curriculo__texto{
+    font-family: montserrat;
+    font-size: 1.5rem;
+    color: #F6F6F6;
+    margin-bottom: 8px;
+    list-style: inside;
+    
+}
+
+.curriculo__link{
+    color: #22D4FD;
+    font-style: italic;
+}
+
